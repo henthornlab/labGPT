@@ -1,0 +1,29 @@
+Area,Instrument,Description,Range,Accuracy
+400,FIT-400A,A Coriolis flowmeter,0 to 6500 kg/h full scale,+/-0.10% +/- [(0.012/measured value) * 100]% o.r. for a mass flowrate
+400,FIT-400B,A Coriolis flowmeter,information not recorded,information not recorded
+400,FIT-400C,A vortex flowmeter,7.7 to 74 kg/h,+/- 0.75% o.r. for Reynold's Number greater than 20000 or +/- 0.75% o.f.s. for Reynold's Numbers from 4000 to 20000
+400,FIT-400D,An orifice flowmeter,"1 to 8 GPM flow range, with a 1 to 10 GPM full scale",+/- 1.25% flow rate
+400,PIT-400A,A pressure transmitter located before the unit's pump,"The span is a minimum of 1.5 psi, but it can be set to larger values during installation. The range is -14.7 psi to 150 psi",+/- 0.15% of span
+400,PIT-400B,A pressure transmitter located after the unit's pump,"The span is a minimum of 1.5 psi, but it can be set to larger values during installation. The range is -14.7 psi to 150 psi",+/- 0.15% of span
+400,SIT-400A,Measures the power usage of the unit in Watts.,No range given,The error is assumed to be zero for this measurement
+150,CIT150-01,"Conductivity probe and transmitter after prefilters, before filters",0 microS - 9999 microS,+/- 2% o.r.
+150,CIT150-02,Conductivity probe and transmitter on the permeate stream,0 microS - 9999 microS,+/- 2% o.r.
+150,CIT150-03,Conductivity probe and transmitter on the concentrate stream,0 microS - 9999 microS,+/- 2% o.r.
+150,FIT150-01,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-02,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-03,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-04,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-05,A Coriolis flowmeter,measureable range: 0 kg/h to 2200000 kg/h,+/- 0.1%
+150,P150-01,Centrifugal Pump,no information provided,no information provided
+150,PIT150-01,Pressure indicator and transmitter,no information provided,no information provided
+700,DPIT-700-00,Differential Pressure Meter, -40 to 40 bar,+/- 0.075 of the set span
+700,DPIT-700-01,Differential Pressure Meter, -40 to 40 bar,+/- 0.075 of the set span
+700,FIT-700-01,Electromagnetic Flow Meter,0.01 to 10 m/s,N/A
+700,FSC-700-00,Adjustable Frequency AC Drive,N/A,N/A
+700,FSC-700-01,Adjustable Frequency AC Drive,N/A,N/A
+700,PIT-700-00,Pressure Indicator and Transmitter,information not recorded,+/- 0.075 of the set span
+700,PIT-700-01,Pressure Indicator and Transmitter,information not recorded,+/- 0.075 of the set span
+700,TE-700-00,RTD,No range provided,+/- 0.10% of resistance
+700,P-700-00,Centrifugal Pump,N/A,N/A
+700,P-700-01,Positive Displacement Pump,N/A,N/A
+700,FIC-700-00,Control Valve,N/A,N/A
