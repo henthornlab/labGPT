@@ -1,0 +1,3 @@
+flask
+stanza
+openai

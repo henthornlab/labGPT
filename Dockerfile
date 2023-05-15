@@ -7,7 +7,7 @@ RUN apt-get install -y python3-pip python3-dev
 
 WORKDIR /app
 
-RUN pip install flask
+RUN ppip install -r requirements.txt
 
 COPY app.py /app
 
