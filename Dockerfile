@@ -7,7 +7,7 @@ RUN apt-get install -y python3-pip python3-dev
 
 WORKDIR /app
 
-RUN ppip install -r requirements.txt
+RUN pip install -r requirements.txt
 
 COPY app.py /app
 
